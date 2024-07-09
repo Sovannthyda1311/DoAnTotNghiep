@@ -13,6 +13,7 @@
                     <h5 class="alert alert-success">{{session('message')}}</h5>
                 @endif
                 <div class="p-4 shadow bg-white">
+                     <h2>Your Logo </h2>
                     <h4>Thank you for Shopping with Online Clothes</h4>
                     <a href="{{ url('/') }}" class="btn btn-warning">Shop now</a>
                 </div>
